@@ -1,1 +1,1 @@
-# movie-website
+"I developed a dynamic and interactive movie website using HTML, CSS, and JavaScript. This multi-page site features seamless video streaming, an intuitive search bar for easy navigation, and a custom scrollbar for smooth browsing. With engaging animations, the platform offers users an immersive experience. Each page is thoughtfully designed to capture the excitement of the movie world, creating a visually captivating and user-friendly interface."
